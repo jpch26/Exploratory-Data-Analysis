@@ -3,6 +3,8 @@ Exploratory Data Analysis
 
 Exploratory Data Analysis using R and tidyverse.
 
+The post for this repository is available in: [Exploratory Data Analysis](https://r-inthelab.net/2021/03/05/exploratory-data-analysis/)
+
 Juan Pablo Carreón Hidalgo
 
 <jpch_26@outlook.com>
